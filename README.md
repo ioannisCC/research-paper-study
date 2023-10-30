@@ -3,6 +3,7 @@
 During my Erasmus exchange program at Stockholm University, my colleagues and I conducted a study on the effect of web design on user attention and information retention. This study was conducted as part of the Cognitive Psychology in Human-Computer Interaction course. Our findings show how eye tracking technology provides valuable insights into user behavior and web design optimization.
 
 The final_report.pdf file is the paper of the study while the research_presentation.pdf contains a brief presentation, summarizing the study.
+The KPiMDI_2023_exam English.pdf file contains the answers to the exam I gave for the course, writing to critical reviews of the research paper.
 
 
 ***Abstract***
